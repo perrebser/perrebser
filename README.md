@@ -4,5 +4,4 @@
 ## **😊 About me**
 -💻 I am a Higher Technician in Multi-platform Applications Development and Higher Technician in Computer Network Systems Management
 -🌱 Learning about Backend and Frontend
--🌟 Main languages: Java, Python
 
