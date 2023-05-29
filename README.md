@@ -8,9 +8,20 @@
 - 💬 I’m looking forward to contribute to Open Source Projects.
 
 
-**Languages and Tools:** 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
-<code><img height="20" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg"></code>
-<code><img height="20" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg"></code>
-<code><img height="20" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png"></code>
+## Languages and Tools
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/java.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/spring-svgrepo-com.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/html.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/css.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/python.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/sql.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/docker-svgrepo-com.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/git.svg"></code>
+
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perrebser&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
