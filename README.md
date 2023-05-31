@@ -28,12 +28,12 @@
 
 
 
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
   <a href="https://github.com/perrebser" target="_blank">
     <code><img src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/github.svg" height="30" width="40"/></code>
   </a>
   <a href="mailto:devperrebser@gmail.com" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/email.svg"  height="30" width="40"/></code>
+    <code><img src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/gmail.svg"  height="30" width="40"/></code>
   </a>
 </p>
