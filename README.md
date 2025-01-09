@@ -1,12 +1,5 @@
 <h1 align="center"><b>Hi , I'm Sergio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  
-## **😀 About me**
-- 💻 I am a Higher Technician in Multi-platform Applications Development and Higher Technician in Computer Network Systems Management
-- 🤔 Exploring new technologies and developing programming insights.
-- 🌱 Learning about Backend and Frontend
-- 💬 I’m looking forward to contribute to Open Source Projects.
-
 
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/perrebser/perrebser/main/images/java.svg"></code>
